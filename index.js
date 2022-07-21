@@ -20,7 +20,7 @@ let restName = name.slice(1,name.length);
 
 restName = firstChar.toLowerCase();
 
-// de concactenate the first char with rest of the char.
+// e concactenate the first char with rest of the char.
 
 let captionName = upperCaseFirstChar + restName;
 

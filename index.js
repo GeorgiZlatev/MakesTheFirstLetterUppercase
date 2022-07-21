@@ -16,7 +16,11 @@ let upperCaseFirstChar = firstChar.toUpperCase();
 
 let restName = name.slice(1,name.length);
 
-// d concactenate the first char with rest of the char.
+// d Change the rest of the name to lower case.
+
+restName = firstChar.toLowerCase();
+
+// de concactenate the first char with rest of the char.
 
 let captionName = upperCaseFirstChar + restName;
 
